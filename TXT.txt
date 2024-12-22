@@ -1,0 +1,9 @@
+  Address: 172.17.177.100
+  Ranges: 192.168.56.0/21
+/etc/vbox/networks.conf file. For
+
+  https://www.virtualbox.org/manual/ch06.html#network_hostonly
+
+
+
+
